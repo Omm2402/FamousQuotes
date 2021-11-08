@@ -1,0 +1,20 @@
+body {
+  background: #6eebf0;
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  color: #ffffff;
+  font-weight:bolder;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+  font-size:70px
+}
+p {
+  color: #ffffff;
+  font-weight:bolder;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+  font-size:20px
+}
+.container{
+  color: grey
+}
